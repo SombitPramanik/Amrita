@@ -50,7 +50,7 @@ import requests
 import json
 
 # {{{{{{{{{{{{{{{ DECLARATION OF GLOBAL VARIABLES AND REQUIRED MACROS }}}}}}}}}}}}}}}}}}}}}}}
-apikey = "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"
+apikey = "Replace it with your OpenAI API Key "
 ptsystem = platform.system()
 current_time = datetime.datetime.now().strftime("%I:%M %p")
 current_time2 = datetime.datetime.now().strftime("%H")
